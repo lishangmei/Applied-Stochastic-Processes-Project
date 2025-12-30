@@ -25,5 +25,5 @@ The script includes the following modules:
     - Figure 4: Empirical Analysis vs GBM Forecast
 
 ## Author
-[李尚嵋l
+[李尚嵋]
 [125034910008]

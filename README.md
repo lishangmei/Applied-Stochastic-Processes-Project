@@ -17,7 +17,7 @@ The script includes the following modules:
 
 ## How to Run
 1. Ensure MATLAB is installed.
-2. Download `main.m`.
+2. Download `GBM_Simulation.m`.
 3. Run the script directly. It will generate 4 figures automatically:
     - Figure 1: Simulated Paths
     - Figure 2: Sensitivity Analysis ($\sigma=0.1$ vs $\sigma=0.6$)

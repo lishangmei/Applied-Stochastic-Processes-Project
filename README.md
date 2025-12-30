@@ -1,4 +1,4 @@
-# Stochastic Modeling of Stock Prices based on Geometric Brownian Motion (GBM)
+# Application of Geometric Brownian Motion in Stock Price Modeling and MATLAB Simulation Analysis
 
 ## Project Overview
 This repository contains the MATLAB source code for the "Applied Stochastic Processes" course project. The project simulates stock price trajectories using Geometric Brownian Motion (GBM) and validates the properties of Itô calculus.
